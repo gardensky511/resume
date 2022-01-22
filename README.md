@@ -47,7 +47,7 @@
 ```
 - 役割: フロントエンドエンジニア
 - チーム規模: 約 20名
-- 技術スタック: **ReactNative、Typescript、ReduxToolkit** など
+- 技術スタック: ReactNative、Typescript、ReduxToolkit など
 ```
 
 業務内容
@@ -63,7 +63,7 @@
 ```
 - 役割: フロントエンドエンジニア
 - チーム規模: 約6名
-- 技術スタック: **Nunjucks、PostCSS、Vanilla Javascript**
+- 技術スタック: Nunjucks、PostCSS、Vanilla Javascript
 ```
 
 業務内容
