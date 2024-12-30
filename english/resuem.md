@@ -4,7 +4,7 @@
 
 # Summary
 
-- Front-end developer with 4+ years of experience
+- Front-end engineer with 4+ years of experience
   - 3+ years with React, 3+ years with TypeScript, and 2+ years with Next.js
 - Passionate about sharing knowledge with others, actively contributing through a [technical blog](https://zenn.dev/luvmini511) and internal [study sessions](https://speakerdeck.com/gardensky511å)
 - Bilingual in Korean and Japanese
