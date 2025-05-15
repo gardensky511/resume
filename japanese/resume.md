@@ -1,30 +1,32 @@
-# Jeongmin LEE
+# 職務経歴書
 
-名前は**李 庭旻**と書いて**イ ジョンミン**と読みます。フロントエンドエンジニアをやっています。
+名前は **李 庭旻** と書いて **イ ジョンミン** と読みます
 
-📧 gardensky511@gmail.com
+## 要約
 
-## 基本情報
-
-- フロントエンドエンジニア歴４年以上
+- **フロントエンドエンジニア歴４年以上**
   - React ３年以上、Typescript ３年以上、Next.js ２以上
-- 知識を他の人と共有することが好きで、[技術ブログ](https://zenn.dev/luvmini511)や[社内勉強会](https://speakerdeck.com/gardensky511å)に積極的
-- 韓国語と日本語のバイリンガル (英語は勉強中)
+- **改善意識**が高く、実際に改善を行える**行動力**がある
+- 自分が理解したことを、わかりやすく**アウトプット**することが得意
+  - 技術記事: https://zenn.dev/luvmini511 (いいね5,000以上)
+  - 社内勉強会: https://speakerdeck.com/gardensky511
+- **日本語**流暢、**英語**もそこそこできる
+  - 韓国語ネイティブ、日本語は JLPT N1 所有、英語は TOEIC 880点
+- **デザイン**に対する理解があり、デザイナーと協業しやすい
+  - デザイン専攻で Bachelor 学位保有
 
 ## 職務経歴
 
 ### ◼︎ パーソルキャリア株式会社 (2024.03 - 現在)
 
 #### ◻︎ doda サイト開発PJ (2024.03 - 現在)
-Java（JSP）と jQuery で構築された古い doda の WEB フロントエンドをページごとに、もしくは部分的に React に置き換えるリプレース
+Java（JSP）と jQuery で構築された古い doda のウェブフロントエンドをページごとに、もしくは部分的に React に置き換えるPJ
 
-- 技術スタック
-  - <u>React、Typescript、Next.js（page router）、Redux Toolkit、CSS Modules</u> など
-- 業務内容
-  - フロントエンド開発全般、他メンバーのコードや成果物レビュー、エンジニア育成、実装サポート、開発プロセス改善など
+- 技術スタック: **React、Typescript、Next.js（page router）、Redux Toolkit、CSS Modules** など
+- 役割: リードフロントエンドエンジニア
 - 成果
   - 開発プロセス改善
-    - Reactコードと古いサイトのリポジトリが別々で、手動でReact資材をコピペしなければならない課題に対し、git のサブモジュール機能と GitHub Actions を活用して Reac t資材のビルド・コピペを自動化。その結果、開発体験の向上と資材の二重管理問題を解決
+    - Reactコードと古いサイトのリポジトリが別々で、手動でReact資材をコピペしなければならない課題に対し、git のサブモジュール機能と GitHub Actions を活用して React 資材のビルド・コピペを自動化。その結果、開発体験の向上と資材の二重管理問題を解決
   - エンジニア教育・育成
     -  ジュニアフロントエンドエンジニアの育成課題に対し、ペアプログラミングやこまめなコードレビューを実施。技術力の向上に加え、バグを事前に発見することで、リリース後のクリティカルなバグ防止
   - 開発プロセス改善
@@ -35,10 +37,8 @@ Java（JSP）と jQuery で構築された古い doda の WEB フロントエン
 #### ◻︎ 自作 UI ライブラリーPJ (2024.04 - 現在)
 ライブラリー化された doda のデザインシステムの運用・補修
 
-- 技術スタック
-  - <u>React、Typescript、CSS Modules</u> など
-- 業務内容
-  - フロントエンド開発全般、コードレビュー、リリース作業、問い合わせ対応、開発プロセス改善など
+- 技術スタック: **React、Typescript、CSS Modules** など
+- 役割: リードフロントエンドエンジニア
 - 成果 
   - リリース作業とリリースノート作成自動化
     - リリース作業とリリースノート作成が手作業で時間がかかる課題に対し、リリースプロセス全体を GitHub Actions で自動化。その結果、リリース作業の所要時間が約40分以上から3分以下に短縮 
@@ -59,19 +59,19 @@ Java（JSP）と jQuery で構築された古い doda の WEB フロントエン
 - 2024.05 - 現在 副業
 
 ##### ○ 店舗スタッフ向け業務システムリプレースPJ (2024.06 - 現在)
-業務システム内製化のためにフロントエンドアプリケーションのリプレース
+業務システムを内製化のためにフロントエンドアプリケーションを新規開発、運用
 
-- 技術スタック
-  - <u>React、Typescript、Next.js（app router）、zustand、Storybook、OpenSearch、Prisma、CSS Modules</u> など
-- 業務内容
-  - フロントエンド開発全般(フルスクラッチの自作UI開発含む)、コードレビューなど
+- 技術スタック: **React、Typescript、Next.js（app router）、zustand、Storybook、OpenSearch、Prisma、CSS Modules** など
+- 役割: フロントエンドエンジニア
+- 成果
+  - 初期表示の遅いという課題に対し、複数のデータフェッチを Suspense を用いて HTML 作成とデータフェッチを並行して行い、初期表示速度を大幅に改善
+  - アプリケーションが設計方針通りに実装されていなかったため、全体をリファクタリングし設計方針に沿った構造に改善。また、各レイヤーの責務を明確化した設計ドキュメントを作成・共有することでチームの設計理解促進に貢献
 
 ##### ○ オンラインストアリプレースPJ (2023.05 - 2024.06)
-SPA の WEB サイトの性能・ SEO 改善のためにフロントエンドを Next.js で SSR 化するリプレース
-- 技術スタック
-  - <u>React、Typescript、Next.js（app router）、Redux Toolkit、Storybook、GraphQL、CSS Modules</u> など
-- 業務内容
-  - フロントエンド開発全般担当(フルスクラッチの自作UI開発含む)、コードレビュー、開発プロセス改善など
+SPA の WEB サイトの性能・ SEO 改善のためにフロントエンドアプリケーションを新規開発、運用
+
+- 技術スタック: **React、Typescript、Next.js（app router）、Redux Toolkit、Storybook、GraphQL、CSS Modules** など
+- 役割: フロントエンドエンジニア
 - 成果
   - 開発プロセス改善
     - 毎週人が手動でパッケージのアップデート状況を調べてバージョンアップPRを作成する課題に対し、[Renovate](https://github.com/renovatebot/renovate) を導入してPR作成を自動化。その結果、グリーンキープ作業の負担を大幅に軽減
@@ -81,10 +81,8 @@ SPA の WEB サイトの性能・ SEO 改善のためにフロントエンドを
 
 買取店舗で使用する業務システムのWEBフロントエンド開発
 
-- 技術スタック
-  - <u>React、 Next.js（page router）、 Typescript、 GraphQL、 React-hook-form、 zod、Material UI</u> など
-- 業務内容
-  - フロントエンド開発全般、コードレビュー、Sentryの問い合わせ対応など
+- 技術スタック: **React、 Next.js（page router）、 Typescript、 GraphQL、 React-hook-form、 zod、Material UI** など
+- 役割: フロントエンドエンジニア
 - 成果
   - E2Eテストケース実行時間短縮
     - MagicPod（E2Eテストツール）のテストケースでチェックボックスとラジオボタンがあるページの実行時間が長い課題に対し、スタイリングを見直すことで改善を実施。その結果、テスト実行時間を30秒以上から10秒以下に短縮
@@ -95,57 +93,32 @@ SPA の WEB サイトの性能・ SEO 改善のためにフロントエンドを
 ### ◼︎ ourly株式会社 (2022.08 - 2022.12)
 
 電子社内報・社員一覧システムのWEBフロントエンド開発
-- 技術スタック
-  - <u>React、 Next.js（page router）、 Typescript、 ReduxToolkit</u> など
-- 業務内容
-  - フロントエンド開発全般担当、コードレビュー、採用業務（カジュアル面談、面接実施）
+- 技術スタック: **React、 Next.js（page router）、 Typescript、 ReduxToolkit** など
+- 役割: フロントエンドエンジニア
 
 ### ◼︎ BASE株式会社 (2022.05 - 2022.07)
 
 BASEショップのWEBフロントエンド開発
-- 技術スタック
-  - <u>Vue.js、 Typescript</u> など
-- 業務内容
-  - フロントエンド開発全般担当、コードレビューなど
+
+- 技術スタック: **Vue.js、 Typescript** など
+- 役割: フロントエンドエンジニア
 
 ### ◼︎ 株式会社ビットエー (2020.04 - 2022.03)
-
-20卒入社。新卒研修後メンバーポジションのフロントエンドエンジニアとして実務にアサイン。他にも社内イベント企画、技術メンター、採用など幅広く活動。
 
 #### ◻︎ 大手総合人材サービス会社 (2021.05 - 2022.03)
 
 大規模転職支援モバイルアプリケーションのフロントエンド開発
-- 技術スタック
-  - <u>ReactNative、 React、 Typescript、 ReduxToolkit</u> など
-- 業務内容
-  - フロントエンド開発全般担当、コードレビュー、FEパフォーマンス改善など
+- 技術スタック: **ReactNative、 React、 Typescript、 ReduxToolkit** など
+- 役割: フロントエンドエンジニア
 
 #### ◻︎ 大手電機メーカー企業 (2020.11 - 2021.04)
 
 PC対応のみだったWEBの社内ポータルサイトを CSS を全体的に改修してレスポンシブにリニュアル
 
-- 技術スタック
-  - <u>Nunjucks、 PostCSS、 Vanilla Javascript</u> など
-- 業務内容
-  - フロントエンド開発全般担当、開発プロセス改善など
+- 技術スタック: **Nunjucks、 PostCSS、 Vanilla Javascript** など
+- 役割: フロントエンドエンジニア
 
 ## 学歴
 
-- 2024.03 - 現在 | [The Cyber University of Korea](https://eng.cuk.edu/index.do), Div. of <u>Computer Engineering</u>
-- 2014.03 - 2020.02 | [Hongik University](https://www.hongik.ac.kr/en/index.do), Div. of <u>Visual Communication Design</u>
-
-
-## アウトプット
-
-- Zenn:　https://zenn.dev/luvmini511
-- Speaker Deck: https://speakerdeck.com/gardensky511
-
-## 自然言語
-
-- 韓国語: ネイティブ
-- 日本語: ビジネスレベル ([日本語能力試験 N1](https://www.jlpt.jp/about/levelsummary.html) 保有)
-- 英語: 日常会話レベル
-
-## 好き
-
-飲み会、1人カラオケ、麻雀（主に3人麻雀）、家にいることなど
+- 2024.03 - 現在 | [The Cyber University of Korea](https://eng.cuk.edu/index.do), Div. of **Computer Engineering**
+- 2014.03 - 2020.02 | [Hongik University](https://www.hongik.ac.kr/en/index.do), Div. of **Visual Communication Design**
