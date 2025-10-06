@@ -125,9 +125,11 @@
 ### 言語
 - 韓国語: ネイティブレベル
 - 日本語: ビジネスレベル
+
 ### 資格
-- TOEIC: 880点（2025/03取得）
-- JLPT: N1 所有
+- AWS Certified Solutions Architect - Associate (2025.10)
+- TOEIC - 880点 (2025.03)
+- JLPT - N1 (2018.12)
 
 ## 学歴
 
