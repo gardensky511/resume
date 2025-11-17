@@ -3,7 +3,11 @@
 ## 自己紹介
 名前は「李 庭旻」と書いて「イ ジョンミン」と読みます。
 
-約5年の経験を持つフロントエンドエンジニアです。React、TypeScript、Next.js（Pages Router / App Router）を中心に、大規模サービスの改善・リプレースから新規開発まで幅広く担当してきました。開発プロセスの自動化やパフォーマンス改善、チーム全体の技術力向上にも取り組んでいます。プライベートでは[技術記事](https://zenn.dev/luvmini511)を投稿しています。
+約5年の経験を持つフロントエンドエンジニアです。React、TypeScript、Next.js（Pages Router / App Router）を中心に、大規模サービスの改善・リプレースから新規開発まで幅広く担当してきました。開発プロセスの自動化やパフォーマンス改善、チーム全体の技術力向上にも取り組んでいます。プライベートでは技術記事を投稿しています。
+
+## アウトプット
+- Zenn: https://zenn.dev/luvmini511
+- speakerdeck: https://speakerdeck.com/gardensky511
 
 ## 職務経歴
 
@@ -63,7 +67,7 @@
 - 工夫
   - GitHub Actions と [release-drafter](https://github.com/release-drafter/release-drafter) を導入し、リリース作業とノート作成の自動化を実現。
   - 最大の障壁は、GitHub Actions（Linux環境）からデプロイ先（Windows共有フォルダ）へのStorybook更新だった。このOS間の差異は、`cifs-utils` を用いて GitHub Actions 側に Windows 共有フォルダをマウントすることで解決し、プロセスの完全自動化に成功。
-- 行動・成果
+- 成果
   - リリース、ノート作成、Storybook 更新というリリースプロセス全体を自動化し、リリース作業時間を90%以上短縮。
   - 従来は5〜6PRをまとめて1回リリースしていたが、自動化により1PR単位でのリリースが可能になり、リリース頻度が5〜6倍に増加。
 
